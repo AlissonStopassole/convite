@@ -1857,7 +1857,7 @@ form label {
 }
 
 .fh5co-nav-toggle i {
-  position: relative;
+  position: fixed;
   display: inline-block;
   width: 25px;
   height: 2px;
@@ -1867,6 +1867,7 @@ form label {
   text-indent: -55px;
   background: #252525;
   transition: all .2s ease-out;
+  margin-top: 20px;
 }
 
 .fh5co-nav-toggle i::before,

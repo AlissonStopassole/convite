@@ -125,7 +125,7 @@
                 days: 'dia',
                 hours: 'hora',
                 minutes: 'minuto',
-                seconds: 'secundo',
+                seconds: 'segundo',
                 pluralLetter: 's'
             },
             plural: true,
